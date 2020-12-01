@@ -1,0 +1,5 @@
+/tmp324/t3/usr/local/lib/libhello.so.1.4
+/tmp324/t3/usr/local/lib/libhello.so.1
+/tmp324/t3/usr/local/lib/libhello.so
+/tmp324/t3/usr/local/lib/libhello.a
+/tmp324/t3/usr/local/include/hello/hello.h

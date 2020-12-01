@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/mainew.dir/main.cpp.o  -o mainew  -L/home/ruiy/CMakeDemo/t3/cmake-build-debug/lib -Wl,-rpath,/home/ruiy/CMakeDemo/t3/cmake-build-debug/lib -lhello 
